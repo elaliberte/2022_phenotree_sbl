@@ -30,3 +30,4 @@ vignettes/*.pdf
 # All data
 /data/
 2022_phenotree_sbl.Rproj
+.RDataTmp
